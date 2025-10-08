@@ -323,7 +323,7 @@
   box-shadow: 0 0 15px rgba(0,0,0,0.5);
 ">
   <iframe 
-    src="https://script.google.com/macros/s/AKfycbxuSWh2XTYFZSscENDakbdpcIJ1SoqzNmRYluJlgZDZpiEIDPGfzvE_PIVBis9Aa62keA/exec" 
+    src="https://script.google.com/macros/s/AKfycbyujs8jWln-ya6YJLPc13SCUuWY6fco7PXpTPv3kmTFQ4Rr0zG49WvYQDzruolhW0Uw/exec" 
     width="970" 
     height="250" 
     style="border:0; display:block; margin:0 auto;">
@@ -360,7 +360,7 @@
         closeBtn.disabled = false;
         closeBtn.style.cursor = 'pointer';
         closeBtn.style.opacity = '1';
-        closeBtn.textContent = 'Kapat (X)';
+        closeBtn.textContent = 'Close Ad (X)';
       }
     }, 1000);
 
